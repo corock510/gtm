@@ -3,15 +3,14 @@
 
 <head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HY3G49J9VX"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E5TCQJPC8T"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-      gtag('config', 'G-HY3G49J9VX');
+    gtag('config', 'G-E5TCQJPC8T');
     </script>
-
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
